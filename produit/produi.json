@@ -1,0 +1,225 @@
+[
+    {
+        "id":1,
+        "Désignation":" A montures acryliques irrégulières",
+        "prix":57,
+        "catégorie":"Femme",
+        "disponibilité":["Tanger, ", "Rabat, ", "casablanca"],
+        "fournisseur":{
+            "RS":"rs1",
+            "Adresse":"ADrs1"
+        }
+    },
+    {
+        "id":2,
+        "Désignation":"Sans monture à strass",
+        "prix":80,
+        "catégorie":"femme",
+        "disponibilité":["Méknes, ","Fes"],
+        "fournisseur":{
+            "RS":"rs1",
+            "Adresse":"ADrs1"
+        }
+    },
+    {
+        "id":3,
+        "Désignation":"Amontures acryliques",
+        "prix":75,
+        "catégorie":"Femme",
+        "disponibilité":["Rabat, ","Sale"],
+        "fournisseur":{
+            "RS":"rs1",
+            "Adresse":"ADrs1"
+        }
+    },
+    {
+        "id":4,
+        "Désignation":"A monture carrée",
+        "prix":50,
+        "catégorie":"Femme",
+        "disponibilité":["Casablnca, ","Agadir"],
+        "fournisseur":{
+            "RS":"rs1",
+            "Adresse":"ADrs1"
+        }
+    },
+    {
+        "id":5,
+        "Désignation":"A montures géométriques",
+        "prix":45,
+        "catégorie":"Homme",
+        "disponibilité":["Tanger, ","Tétouan"],
+        "fournisseur":{
+            "RS":"rs1",
+            "Adresse":"ADrs1"
+        }
+    },
+    {
+        "id":6,
+        "Désignation":" A montures géométriques",
+        "prix":60,
+        "catégorie":"Homme",
+        "disponibilité":["Kenitra, ","Ouejda"],
+        "fournisseur":{
+            "RS":"rs1",
+            "Adresse":"ADrs1"
+        }
+    },
+    {
+        "id":7,
+        "Désignation":"A monture en métal",
+        "prix":45,
+        "catégorie":"Homme",
+        "disponibilité":["Tanger, ","Ouejda, ","Agadir"],
+        "fournisseur":{
+            "RS":"rs1",
+            "Adresse":"ADrs1"
+        }
+    },
+    {
+        "id":8,
+        "Désignation":"Noir",
+        "prix":67,
+        "catégorie":"Femme",
+        "disponibilité":["Tanger"],
+        "fournisseur":{
+            "RS":"rs1",
+            "Adresse":"ADrs1"
+        }
+    },
+    {
+        "id":9,
+        "Désignation":"A monture carrée",
+        "prix":55,
+        "catégorie":"Femme",
+        "disponibilité":["Rabat"],
+        "fournisseur":{
+            "RS":"rs1",
+            "Adresse":"ADrs1"
+        }
+    },
+    {
+        "id":10,
+        "Désignation":"A barre supérieure",
+        "prix":47,
+        "catégorie":"Femme",
+        "disponibilité":["Marrakech, ","Agadir"],
+        "fournisseur":{
+            "RS":"rs1",
+            "Adresse":"ADrs1"
+        }
+    },
+    {
+        "id":11,
+        "Désignation":"Ecru",
+        "prix":60,
+        "catégorie":"Homme",
+        "disponibilité":["Ouejda, ","Ifrane"],
+        "fournisseur":{
+            "RS":"rs1",
+            "Adresse":"ADrs1"
+        }
+    },
+    {
+        "id":12,
+        "Désignation":"Vert",
+        "prix":77,
+        "catégorie":"Femme",
+        "disponibilité":["Tétouan"],
+        "fournisseur":{
+            "RS":"rs1",
+            "Adresse":"ADrs1"
+        }
+    },
+    {
+        "id":13,
+        "Désignation":"Polarisées à monture métallique",
+        "prix":45,
+        "catégorie":"Homme",
+        "disponibilité":["Tanger, ","Marrakech"],
+        "fournisseur":{
+            "RS":"rs1",
+            "Adresse":"ADrs1"
+        }
+    },
+    {
+        "id":14,
+        "Désignation":"Oeil de chat",
+        "prix":70,
+        "catégorie":"Femme",
+        "disponibilité":["Marrakech"],
+        "fournisseur":{
+            "RS":"rs1",
+            "Adresse":"ADrs1"
+        }
+    },
+    {
+        "id":15,
+        "Désignation":"champagne",
+        "prix":50,
+        "catégorie":"Femme",
+        "disponibilité":["Tétouan, ","Sale"],
+        "fournisseur":{
+            "RS":"rs1",
+            "Adresse":"ADrs1"
+        }
+    },
+    {
+        "id":16,
+        "Désignation":"A montures polygonales en métal",
+        "prix":80,
+        "catégorie":"Homme",
+        "disponibilité":["Tanger"],
+        "fournisseur":{
+            "RS":"rs1",
+            "Adresse":"ADrs1"
+        }
+    },
+    
+    {
+        "id":17,
+        "Désignation":"Doré",
+        "prix":40,
+        "catégorie":"Homme",
+        "disponibilité":["Casablanca, ","Rabat"],
+        "fournisseur":{
+            "RS":"rs1",
+            "Adresse":"ADrs1"
+        }
+    },
+    {
+        "id":18,
+        "Désignation":"A montures polygonales en métal",
+        "prix":55,
+        "catégorie":"Femme",
+        "disponibilité":["Tanger, ","Rabat, ","casablanca"],
+        "fournisseur":{
+            "RS":"rs1",
+            "Adresse":"ADrs1"
+        }
+    },
+    {
+        "id":19,
+        "Désignation":"A monture en métal",
+        "prix":100,
+        "catégorie":"Femme",
+        "disponibilité":["Rabat, ","Agadir"],
+        "fournisseur":{
+            "RS":"rs1",
+            "Adresse":"ADrs1"
+        }
+    },
+    {
+        "id":20,
+        "Désignation":"Bleu",
+        "prix":150,
+        "catégorie":"HOmme",
+        "disponibilité":["Agadir, ","Kenitra"],
+        "fournisseur":{
+            "RS":"rs1",
+            "Adresse":"ADrs1"
+        }
+    }
+
+]
+

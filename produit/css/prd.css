@@ -1,0 +1,40 @@
+@import url('https://fonts.googleapis.com/css2?family=Bangers&family=Wire+One&display=swap');
+
+
+nav{
+font-family: 'Wire One', sans-serif;
+color: #BEA530;
+font-size: 30px;
+}
+header{
+    background-image: url("pexels-pixabay-413793.jpg");
+    background-size: cover;
+    background-position: center;
+    height: 400px;
+}
+h4{
+    padding-top: 230px;
+    padding-left: 120px;
+    font-size: 35px;
+    color: rgb(255, 255, 255);
+}
+strong{
+    color: #BEA530;
+}
+
+.form-control{
+    margin-top: 10px;
+    border-color: #ffd103 ;
+    color: #BEA530;
+    font-weight: 700;
+    margin-left: 954px;
+    background-color: #BEA530;
+}
+table{
+    margin-top: 10px;
+}
+body{
+    background-color: black;
+}
+
+
